@@ -2,10 +2,4 @@
 # 這個 .gitignore 檔案由 Microsoft(R) Visual Studio 自動建立。
 ################################################################################
 
-/.vs/ProgramTrading/v15/Server/sqlite3
-/Lab1
-/Lab2
-/Labb2
-/ProgramTrading
-/Data
-/Packages
+/Lab1/obj/Debug
